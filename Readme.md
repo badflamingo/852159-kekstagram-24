@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Flamingo](https://up.htmlacademy.ru/javascript/24/user/852159).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Васинская](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
